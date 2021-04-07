@@ -1,0 +1,20 @@
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.grey {
+  background-color: grey;
+}
+
+.white {
+  background-color: white;
+}
+
+.disabled {
+  background-color: lightgrey;
+  color: grey;
+}
